@@ -1,4 +1,16 @@
 ---
 title: "About"
+author: "Yones Khaledian"
+date: "February 12, 2019"
 ---
 # About my website
+
+This site provides information regarding my academic background.
+
+
+My favorite packages are [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf), [caret](https://cran.r-project.org/web/packages/caret/caret.pdf), [Cubist](https://cran.r-project.org/web/packages/Cubist/Cubist.pdf), and [randomForest](https://cran.r-project.org/web/packages/randomForest/randomForest.pdf)
+
+
+List of my publications is available on this link [My CV](https://scholar.google.com/citations?user=sWp5BVcAAAAJ&hl=en)
+
+This link shows my research interests. [Research Interests](http://glsi.agron.iastate.edu/glsi/people/yones-khaledian/)
